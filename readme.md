@@ -1,4 +1,4 @@
-#Learning Objects for individual work
+# Learning Objects for individual work
 
 * Network activity
 * Remotes
@@ -7,3 +7,5 @@
 * Student repositories
 * GitHub Classroom
 * Permissions
+* Exercises
+* Automated testing
